@@ -72,6 +72,4 @@ Contributions are welcome! Follow these steps to contribute:
    git push origin feature/your-feature-name
    ```
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
